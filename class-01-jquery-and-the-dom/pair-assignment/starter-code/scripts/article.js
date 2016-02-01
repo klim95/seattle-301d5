@@ -26,7 +26,6 @@ Article.prototype.toHtml = function() {
 
   $newArticle.append('<hr>');
 
-  // TODO: This cloned article is no longer a template, so we should remove that class...
   $('article').removeClass('template');
 
   return $newArticle;
