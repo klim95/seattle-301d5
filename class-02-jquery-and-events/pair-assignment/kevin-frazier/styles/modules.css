@@ -1,4 +1,7 @@
 /* TODO: Give the site header a nice background color, from your selected color scheme. */
+body {
+  background-color: #007B7B;
+}
 
 .site-header {
   padding: .1em;
